@@ -1,0 +1,45 @@
+#0x From the Jackie_Brown color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2c1c15"
+foreground = "#ffcc2f"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#23ff18"
+cursor = "#ae8c20"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2c1d16"
+red     = "#ef5734"
+green   = "#2baf2b"
+yellow  = "#bdbe00"
+blue    = "#246db2"
+magenta = "#cf5ec0"
+cyan    = "#00acee"
+white   = "#bfbfbf"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#666666"
+red     = "#e50000"
+green   = "#86a83e"
+yellow  = "#e5e500"
+blue    = "#0000ff"
+magenta = "#e500e5"
+cyan    = "#00e5e5"
+white   = "#ffcc2f"

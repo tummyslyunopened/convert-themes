@@ -1,0 +1,45 @@
+#0x From the Monokai_Soda color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#191919"
+foreground = "#c4c4b5"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#f6f6ec"
+cursor = "#343434"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#191919"
+red     = "#f3005f"
+green   = "#97e023"
+yellow  = "#fa8419"
+blue    = "#9c64fe"
+magenta = "#f3005f"
+cyan    = "#57d1ea"
+white   = "#c4c4b5"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#615e4b"
+red     = "#f3005f"
+green   = "#97e023"
+yellow  = "#dfd561"
+blue    = "#9c64fe"
+magenta = "#f3005f"
+cyan    = "#57d1ea"
+white   = "#c4c4b5"

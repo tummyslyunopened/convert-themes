@@ -1,0 +1,45 @@
+#0x From the GoaBase color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2f0033"
+foreground = "#f6ed00"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#1a6500"
+cursor = "#100a24"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#880041"
+red     = "#f78000"
+green   = "#249000"
+yellow  = "#f40000"
+blue    = "#000482"
+magenta = "#f43bff"
+cyan    = "#3affff"
+white   = "#000000"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#411a6d"
+red     = "#f800e1"
+green   = "#5743ff"
+yellow  = "#ea00d7"
+blue    = "#b90003"
+magenta = "#9a5952"
+cyan    = "#c8f9f3"
+white   = "#f6ed00"

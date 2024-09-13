@@ -1,0 +1,45 @@
+#0x From the WildCherry color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1f1626"
+foreground = "#d9faff"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#dd00ff"
+cursor = "#002731"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000506"
+red     = "#d94085"
+green   = "#2ab250"
+yellow  = "#ffd06e"
+blue    = "#873bdb"
+magenta = "#ececec"
+cyan    = "#c1b8b6"
+white   = "#fff8dd"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#009cc9"
+red     = "#da6bab"
+green   = "#f4dba5"
+yellow  = "#eac066"
+blue    = "#2f8bb9"
+magenta = "#ae636b"
+cyan    = "#ff919d"
+white   = "#d9faff"

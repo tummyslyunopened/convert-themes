@@ -1,0 +1,45 @@
+#0x From the Solarized_Dark_-_Patched color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#001e26"
+foreground = "#708183"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#708183"
+cursor = "#002731"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#002731"
+red     = "#d01b24"
+green   = "#728905"
+yellow  = "#a57705"
+blue    = "#2075c7"
+magenta = "#c61b6e"
+cyan    = "#259185"
+white   = "#e9e2cb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#465a61"
+red     = "#bd3612"
+green   = "#465a61"
+yellow  = "#52676f"
+blue    = "#708183"
+magenta = "#5856b9"
+cyan    = "#81908f"
+white   = "#708183"

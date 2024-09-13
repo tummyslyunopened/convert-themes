@@ -1,0 +1,45 @@
+#0x From the Flat color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#002240"
+foreground = "#2bc45d"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#e5bd0c"
+cursor = "#782b9c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#212c3e"
+red     = "#a72320"
+green   = "#32a448"
+yellow  = "#e58d11"
+blue    = "#3066ab"
+magenta = "#7819a0"
+cyan    = "#2b9270"
+white   = "#afb6b9"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#202b3b"
+red     = "#d3302e"
+green   = "#2c9440"
+yellow  = "#e5bd0c"
+blue    = "#3b7cd2"
+magenta = "#822fa7"
+cyan    = "#35b286"
+white   = "#2bc45d"

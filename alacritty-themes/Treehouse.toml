@@ -1,0 +1,45 @@
+#0x From the Treehouse color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#191919"
+foreground = "#776b53"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fac814"
+cursor = "#776b53"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#321200"
+red     = "#b1270e"
+green   = "#44a900"
+yellow  = "#a9810b"
+blue    = "#578499"
+magenta = "#96363c"
+cyan    = "#b2591d"
+white   = "#776b53"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#423625"
+red     = "#ed5c20"
+green   = "#55f237"
+yellow  = "#f1b731"
+blue    = "#85cfec"
+magenta = "#e04b5a"
+cyan    = "#f07c14"
+white   = "#776b53"

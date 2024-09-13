@@ -1,0 +1,45 @@
+#0x From the Tomorrow_Night_Bright color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#e9e9e9"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#e9e9e9"
+cursor = "#424242"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#d44d53"
+green   = "#b9c949"
+yellow  = "#e6c446"
+blue    = "#79a6da"
+magenta = "#c396d7"
+cyan    = "#70c0b1"
+white   = "#fffefe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#d44d53"
+green   = "#b9c949"
+yellow  = "#e6c446"
+blue    = "#79a6da"
+magenta = "#c396d7"
+cyan    = "#70c0b1"
+white   = "#e9e9e9"

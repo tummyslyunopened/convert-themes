@@ -1,0 +1,45 @@
+#0x From the Darkside color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#212324"
+foreground = "#b9b9b9"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#2f3333"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#e8331c"
+green   = "#68c156"
+yellow  = "#f1d32b"
+blue    = "#1c98e8"
+magenta = "#8e69c8"
+cyan    = "#1c98e8"
+white   = "#b9b9b9"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#df5a4f"
+green   = "#76b768"
+yellow  = "#eed64a"
+blue    = "#387bd2"
+magenta = "#957bbd"
+cyan    = "#3d96e2"
+white   = "#b9b9b9"

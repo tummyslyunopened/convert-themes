@@ -1,0 +1,45 @@
+#0x From the Flatland color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1c1e20"
+foreground = "#b8daee"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#708183"
+cursor = "#2a2a24"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1c1d19"
+red     = "#f18238"
+green   = "#9ed264"
+yellow  = "#f3ef6d"
+blue    = "#4f96be"
+magenta = "#695abb"
+cyan    = "#d53864"
+white   = "#fefffe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#1c1d19"
+red     = "#d12a24"
+green   = "#a7d32c"
+yellow  = "#ff8948"
+blue    = "#61b8d0"
+magenta = "#695abb"
+cyan    = "#d53864"
+white   = "#b8daee"

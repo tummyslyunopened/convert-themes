@@ -1,0 +1,45 @@
+#0x From the Solarized_Light color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#fdf6e3"
+foreground = "#52676f"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#52676f"
+cursor = "#e9e2cb"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#e4e4e4"
+red     = "#d70000"
+green   = "#5f8700"
+yellow  = "#af8700"
+blue    = "#0087ff"
+magenta = "#af005f"
+cyan    = "#00afaf"
+white   = "#262626"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#ffffd7"
+red     = "#d75f00"
+green   = "#585858"
+yellow  = "#626262"
+blue    = "#808080"
+magenta = "#5f5faf"
+cyan    = "#8a8a8a"
+white   = "#52676f"

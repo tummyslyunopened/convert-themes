@@ -1,0 +1,45 @@
+#0x From the AlienBlood color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0f160f"
+foreground = "#637d75"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#73f990"
+cursor = "#1d4025"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#112615"
+red     = "#7f2b26"
+green   = "#2f7e25"
+yellow  = "#707f23"
+blue    = "#2f697f"
+magenta = "#47577e"
+cyan    = "#317f76"
+white   = "#647d75"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#3c4711"
+red     = "#df8008"
+green   = "#18e000"
+yellow  = "#bde000"
+blue    = "#00a9df"
+magenta = "#0058df"
+cyan    = "#00dfc3"
+white   = "#637d75"

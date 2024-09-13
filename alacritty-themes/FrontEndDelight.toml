@@ -1,0 +1,45 @@
+#0x From the FrontEndDelight color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1b1b1d"
+foreground = "#acacac"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#cccccc"
+cursor = "#e96153"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#242426"
+red     = "#f8501a"
+green   = "#565746"
+yellow  = "#f9761d"
+blue    = "#2c70b7"
+magenta = "#f02d4e"
+cyan    = "#3ba0a5"
+white   = "#acacac"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#5eac6c"
+red     = "#f64319"
+green   = "#74eb4c"
+yellow  = "#fcc224"
+blue    = "#3393c9"
+magenta = "#e75e4e"
+cyan    = "#4ebce5"
+white   = "#acacac"

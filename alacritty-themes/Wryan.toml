@@ -1,0 +1,45 @@
+#0x From the Wryan color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#101010"
+foreground = "#999993"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#9d9eca"
+cursor = "#4d4d4d"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#333333"
+red     = "#8c4665"
+green   = "#287373"
+yellow  = "#7c7c99"
+blue    = "#395573"
+magenta = "#5e468c"
+cyan    = "#31658c"
+white   = "#899ca1"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#3d3d3d"
+red     = "#bf4d80"
+green   = "#53a6a6"
+yellow  = "#9e9ecb"
+blue    = "#477ab3"
+magenta = "#7e62b3"
+cyan    = "#6096bf"
+white   = "#999993"

@@ -1,0 +1,45 @@
+#0x From the Bright_Lights color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#191919"
+foreground = "#b2c8d6"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#f34a00"
+cursor = "#b2c8d6"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#191919"
+red     = "#ff355b"
+green   = "#b6e875"
+yellow  = "#ffc150"
+blue    = "#75d3ff"
+magenta = "#b975e6"
+cyan    = "#6cbeb5"
+white   = "#c1c8d6"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#191919"
+red     = "#ff355b"
+green   = "#b6e875"
+yellow  = "#ffc150"
+blue    = "#75d4ff"
+magenta = "#b975e6"
+cyan    = "#6cbeb5"
+white   = "#b2c8d6"

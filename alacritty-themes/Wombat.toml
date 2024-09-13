@@ -1,0 +1,45 @@
+#0x From the Wombat color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#171717"
+foreground = "#ded9ce"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#453a39"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff605a"
+green   = "#b1e869"
+yellow  = "#ead89c"
+blue    = "#5da9f6"
+magenta = "#e86aff"
+cyan    = "#82fff6"
+white   = "#ded9ce"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#313131"
+red     = "#f58b7f"
+green   = "#dcf88f"
+yellow  = "#eee5b2"
+blue    = "#a5c7ff"
+magenta = "#ddaaff"
+cyan    = "#b6fff9"
+white   = "#ded9ce"

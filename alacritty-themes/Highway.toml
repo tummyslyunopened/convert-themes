@@ -1,0 +1,45 @@
+#0x From the Highway color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#212224"
+foreground = "#ededed"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#dfd9b8"
+cursor = "#384563"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#cf0d17"
+green   = "#128033"
+yellow  = "#ffca3d"
+blue    = "#006ab3"
+magenta = "#6a2674"
+cyan    = "#384563"
+white   = "#ededed"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#5c4f49"
+red     = "#ef7d17"
+green   = "#b1d130"
+yellow  = "#fff11f"
+blue    = "#4fc2fd"
+magenta = "#de0070"
+cyan    = "#5c4f49"
+white   = "#ededed"

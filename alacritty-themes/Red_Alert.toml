@@ -1,0 +1,45 @@
+#0x From the Red_Alert color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#762423"
+foreground = "#ffffff"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffffff"
+cursor = "#073642"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#d52e4d"
+green   = "#71be6b"
+yellow  = "#beb86b"
+blue    = "#479bed"
+magenta = "#e878d6"
+cyan    = "#6bbeb8"
+white   = "#d6d6d6"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#262626"
+red     = "#e02453"
+green   = "#aff08b"
+yellow  = "#dfddb7"
+blue    = "#65a9f0"
+magenta = "#ddb7df"
+cyan    = "#b7dfdd"
+white   = "#ffffff"

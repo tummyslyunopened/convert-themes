@@ -1,0 +1,45 @@
+#0x From the Espresso_Libre color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2a211c"
+foreground = "#b8a898"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffffff"
+cursor = "#c3dcff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#cc0000"
+green   = "#1a921c"
+yellow  = "#efe43a"
+blue    = "#0066ff"
+magenta = "#c5656b"
+cyan    = "#05989a"
+white   = "#d3d7cf"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545753"
+red     = "#ef2828"
+green   = "#9aff87"
+yellow  = "#fffa5c"
+blue    = "#43a8ed"
+magenta = "#ff8089"
+cyan    = "#34e2e2"
+white   = "#b8a898"

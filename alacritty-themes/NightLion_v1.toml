@@ -1,0 +1,45 @@
+#0x From the NightLion_v1 color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#bbbbbb"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#b4d5ff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#4c4c4c"
+red     = "#bb0000"
+green   = "#5ede8f"
+yellow  = "#f2f067"
+blue    = "#266ad7"
+magenta = "#bb00bb"
+cyan    = "#00d9df"
+white   = "#bbbbbb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ff5555"
+green   = "#55ff55"
+yellow  = "#ffff55"
+blue    = "#5555ff"
+magenta = "#ff55ff"
+cyan    = "#55ffff"
+white   = "#bbbbbb"

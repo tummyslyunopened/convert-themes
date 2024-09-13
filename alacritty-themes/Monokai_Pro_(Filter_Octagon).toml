@@ -1,0 +1,45 @@
+#0x From the Monokai_Pro_(Filter_Octagon) color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3a3d4b"
+foreground = "#eaf2f1"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#eaf2f1"
+cursor = "#eaf2f1"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#3a3d4b"
+red     = "#ff657a"
+green   = "#bad761"
+yellow  = "#ffd76d"
+blue    = "#ff9b5e"
+magenta = "#c39ac9"
+cyan    = "#9cd1bb"
+white   = "#eaf2f1"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#696d77"
+red     = "#ff657a"
+green   = "#bad761"
+yellow  = "#ffd76d"
+blue    = "#ff9b5e"
+magenta = "#c39ac9"
+cyan    = "#9cd1bb"
+white   = "#eaf2f1"

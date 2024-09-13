@@ -1,0 +1,45 @@
+#0x From the Github color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#f4f4f4"
+foreground = "#3e3e3e"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#3f3f3f"
+cursor = "#a9c1e2"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#3e3e3e"
+red     = "#970b16"
+green   = "#07962a"
+yellow  = "#f7edc7"
+blue    = "#003e8a"
+magenta = "#e94691"
+cyan    = "#89d1ec"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#666666"
+red     = "#de0000"
+green   = "#87d5a2"
+yellow  = "#f0cf06"
+blue    = "#2e6cba"
+magenta = "#ffa29f"
+cyan    = "#1cfafe"
+white   = "#3e3e3e"

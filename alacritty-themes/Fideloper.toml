@@ -1,0 +1,45 @@
+#0x From the Fideloper color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#282f32"
+foreground = "#dad9df"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#d35f5a"
+cursor = "#eeb7ab"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#282f32"
+red     = "#ca1d2c"
+green   = "#edb7ab"
+yellow  = "#b7aa9a"
+blue    = "#2e78c1"
+magenta = "#c0226e"
+cyan    = "#309185"
+white   = "#e9e2cd"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#092027"
+red     = "#d35f5a"
+green   = "#d35f5a"
+yellow  = "#a86571"
+blue    = "#7c84c4"
+magenta = "#5b5db2"
+cyan    = "#81908f"
+white   = "#dad9df"

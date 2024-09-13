@@ -1,0 +1,45 @@
+#0x From the Nova color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3c4c54"
+foreground = "#8798a3"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#7fc1c9"
+cursor = "#7fc1ca"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#8799a4"
+red     = "#efc08d"
+green   = "#a6cb91"
+yellow  = "#d7d690"
+blue    = "#83afe4"
+magenta = "#d460da"
+cyan    = "#7fc1b6"
+white   = "#c4d3dc"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#c4d3dc"
+red     = "#ef8358"
+green   = "#a8ce93"
+yellow  = "#e5e77f"
+blue    = "#69c8ff"
+magenta = "#d18ec2"
+cyan    = "#00e59f"
+white   = "#8798a3"

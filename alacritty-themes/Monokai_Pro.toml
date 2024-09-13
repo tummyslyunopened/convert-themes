@@ -1,0 +1,45 @@
+#0x From the Monokai_Pro color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#403e41"
+foreground = "#fcfcfa"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fcfcfa"
+cursor = "#fcfcfa"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#403e41"
+red     = "#ff6188"
+green   = "#a9dc76"
+yellow  = "#ffd866"
+blue    = "#fc9867"
+magenta = "#ab9df2"
+cyan    = "#78dce8"
+white   = "#fcfcfa"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#727072"
+red     = "#ff6188"
+green   = "#a9dc76"
+yellow  = "#ffd866"
+blue    = "#fc9867"
+magenta = "#ab9df2"
+cyan    = "#78dce8"
+white   = "#fcfcfa"

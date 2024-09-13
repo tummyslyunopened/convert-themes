@@ -1,0 +1,45 @@
+#0x From the Spring color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#ffffff"
+foreground = "#4d4d4c"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#4d4d4c"
+cursor = "#d6d6d6"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff4c83"
+green   = "#1f8c3a"
+yellow  = "#1fc95a"
+blue    = "#1cd2ee"
+magenta = "#8959a8"
+cyan    = "#3e999f"
+white   = "#fffefe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#ff0021"
+green   = "#1fc231"
+yellow  = "#d4b706"
+blue    = "#15a9fd"
+magenta = "#8959a8"
+cyan    = "#3e999f"
+white   = "#4d4d4c"

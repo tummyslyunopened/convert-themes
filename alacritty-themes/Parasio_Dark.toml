@@ -1,0 +1,45 @@
+#0x From the Parasio_Dark color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2f1d2e"
+foreground = "#a39d9b"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#a39d9b"
+cursor = "#4f414c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2f1d2e"
+red     = "#ef6154"
+green   = "#48b685"
+yellow  = "#fec418"
+blue    = "#05b6ef"
+magenta = "#805ba3"
+cyan    = "#5bc4be"
+white   = "#a39d9b"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#776d70"
+red     = "#ef6154"
+green   = "#48b685"
+yellow  = "#fec418"
+blue    = "#05b6ef"
+magenta = "#805ba3"
+cyan    = "#5bc4be"
+white   = "#a39d9b"

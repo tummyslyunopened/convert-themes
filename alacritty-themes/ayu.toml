@@ -1,0 +1,45 @@
+#0x From the ayu color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0e1419"
+foreground = "#e5e1cf"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#f19618"
+cursor = "#243340"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff3333"
+green   = "#b8cc52"
+yellow  = "#e6c446"
+blue    = "#36a3d9"
+magenta = "#f07078"
+cyan    = "#95e5cb"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#323232"
+red     = "#ff6565"
+green   = "#e9fe83"
+yellow  = "#fff778"
+blue    = "#68d4ff"
+magenta = "#ffa3aa"
+cyan    = "#c7fffc"
+white   = "#e5e1cf"

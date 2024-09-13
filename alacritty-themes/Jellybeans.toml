@@ -1,0 +1,45 @@
+#0x From the Jellybeans color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#111111"
+foreground = "#dedede"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffa460"
+cursor = "#464d91"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#919191"
+red     = "#e17373"
+green   = "#94b978"
+yellow  = "#ffb97b"
+blue    = "#96bddb"
+magenta = "#e1c0fa"
+cyan    = "#00988e"
+white   = "#dedede"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#bdbdbd"
+red     = "#ffa0a0"
+green   = "#bddeab"
+yellow  = "#ffdba0"
+blue    = "#b1d7f6"
+magenta = "#fbdaff"
+cyan    = "#19b2a7"
+white   = "#dedede"

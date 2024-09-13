@@ -1,0 +1,45 @@
+#0x From the Misterioso color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2d3743"
+foreground = "#e1e1e0"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#000000"
+cursor = "#2d37ff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff4141"
+green   = "#74ae68"
+yellow  = "#ffac28"
+blue    = "#338e86"
+magenta = "#9413e5"
+cyan    = "#23d6d6"
+white   = "#e1e1df"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ff3241"
+green   = "#74cc68"
+yellow  = "#ffb928"
+blue    = "#23d6d6"
+magenta = "#ff37ff"
+cyan    = "#00ece1"
+white   = "#e1e1e0"

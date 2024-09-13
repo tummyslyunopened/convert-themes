@@ -1,0 +1,45 @@
+#0x From the Hybrid color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#161718"
+foreground = "#b7bcb9"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#b7bcb9"
+cursor = "#1e1f22"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2a2e33"
+red     = "#b74d50"
+green   = "#b3be5a"
+yellow  = "#e3b55e"
+blue    = "#6d90b0"
+magenta = "#a07eab"
+cyan    = "#7fbeb3"
+white   = "#b5b8b6"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#1d1e21"
+red     = "#8c2d32"
+green   = "#788331"
+yellow  = "#e5894f"
+blue    = "#4b6b88"
+magenta = "#6e4f79"
+cyan    = "#4d7b73"
+white   = "#b7bcb9"

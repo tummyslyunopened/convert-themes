@@ -1,0 +1,45 @@
+#0x From the CrayonPonyFish color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#140607"
+foreground = "#685259"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#685259"
+cursor = "#2a1a1c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2a1a1c"
+red     = "#90002a"
+green   = "#579523"
+yellow  = "#aa301b"
+blue    = "#8b87af"
+magenta = "#682e50"
+cyan    = "#e8a766"
+white   = "#685259"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#3c2a2e"
+red     = "#c5245c"
+green   = "#8dff56"
+yellow  = "#c7371d"
+blue    = "#cfc9ff"
+magenta = "#fb6cb9"
+cyan    = "#ffceae"
+white   = "#685259"

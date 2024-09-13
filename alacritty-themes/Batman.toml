@@ -1,0 +1,45 @@
+#0x From the Batman color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1b1d1e"
+foreground = "#6e6e6e"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fcee0b"
+cursor = "#4d4f4c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1b1d1e"
+red     = "#e6db43"
+green   = "#c8be46"
+yellow  = "#f3fd21"
+blue    = "#737074"
+magenta = "#737271"
+cyan    = "#615f5e"
+white   = "#c5c5be"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#505354"
+red     = "#fff68d"
+green   = "#fff27c"
+yellow  = "#feed6c"
+blue    = "#909495"
+magenta = "#9a999d"
+cyan    = "#a2a2a5"
+white   = "#6e6e6e"

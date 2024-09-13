@@ -1,0 +1,45 @@
+#0x From the LiquidCarbonTransparentInverse color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#afc2c2"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffffff"
+cursor = "#7cbeff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#bbcbcc"
+red     = "#ff2f2f"
+green   = "#549a6f"
+yellow  = "#ccac00"
+blue    = "#0099cc"
+magenta = "#cc68c8"
+cyan    = "#79c4cc"
+white   = "#000000"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#ffffff"
+red     = "#ff2f2f"
+green   = "#549a6f"
+yellow  = "#ccac00"
+blue    = "#0099cc"
+magenta = "#cc68c8"
+cyan    = "#79c4cc"
+white   = "#afc2c2"

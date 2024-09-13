@@ -1,0 +1,45 @@
+#0x From the snazzy color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#282a36"
+foreground = "#eff0eb"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#97979B"
+cursor = "#FFFACD"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#282a36"
+red     = "#FF5C57"
+green   = "#5AF78E"
+yellow  = "#F3F99D"
+blue    = "#57C7FF"
+magenta = "#FF6AC1"
+cyan    = "#9AEDFE"
+white   = "#F1F1F0"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#686868"
+red     = "#FF5C57"
+green   = "#5AF78E"
+yellow  = "#F3F99D"
+blue    = "#57C7FF"
+magenta = "#FF6AC1"
+cyan    = "#9AEDFE"
+white   = "#eff0eb"

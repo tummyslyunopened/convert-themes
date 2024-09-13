@@ -1,0 +1,45 @@
+#0x From the Monokai_Classic color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3b3c35"
+foreground = "#fdfff1"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fdfff1"
+cursor = "#fdfff1"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#3b3c35"
+red     = "#f82570"
+green   = "#a6e12d"
+yellow  = "#e4db73"
+blue    = "#fc961f"
+magenta = "#ae81ff"
+cyan    = "#66d9ee"
+white   = "#fdfff1"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#6e7066"
+red     = "#f82570"
+green   = "#a6e12d"
+yellow  = "#e4db73"
+blue    = "#fc961f"
+magenta = "#ae81ff"
+cyan    = "#66d9ee"
+white   = "#fdfff1"

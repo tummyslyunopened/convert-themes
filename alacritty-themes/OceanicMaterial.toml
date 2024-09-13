@@ -1,0 +1,45 @@
+#0x From the OceanicMaterial color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1c262b"
+foreground = "#c1c8d6"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#b2b8c3"
+cursor = "#6dc1b8"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ee2a29"
+green   = "#3fa33f"
+yellow  = "#fee92e"
+blue    = "#1d80ef"
+magenta = "#8800a0"
+cyan    = "#16aec9"
+white   = "#a4a4a4"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#767676"
+red     = "#dc5b60"
+green   = "#70be71"
+yellow  = "#fef063"
+blue    = "#53a4f3"
+magenta = "#a94dbb"
+cyan    = "#42c6d9"
+white   = "#c1c8d6"

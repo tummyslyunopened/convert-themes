@@ -1,0 +1,45 @@
+#0x From the Piatto_Light color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#ffffff"
+foreground = "#414141"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#5e76c7"
+cursor = "#6f6a4e"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#414141"
+red     = "#b23670"
+green   = "#66781d"
+yellow  = "#cc6e33"
+blue    = "#3b5ea7"
+magenta = "#a353b2"
+cyan    = "#66781d"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#3e3e3e"
+red     = "#da3365"
+green   = "#829428"
+yellow  = "#cc6e33"
+blue    = "#3b5ea7"
+magenta = "#a353b2"
+cyan    = "#829428"
+white   = "#414141"

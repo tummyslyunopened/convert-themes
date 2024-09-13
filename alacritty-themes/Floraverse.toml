@@ -1,0 +1,45 @@
+#0x From the Floraverse color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0e0c15"
+foreground = "#dbd0b9"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#f3e0b8"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#08002e"
+red     = "#64002c"
+green   = "#5d731a"
+yellow  = "#cd751c"
+blue    = "#1d6da1"
+magenta = "#b7077e"
+cyan    = "#42a38c"
+white   = "#f3e0b8"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#331d4c"
+red     = "#cf2062"
+green   = "#b3ce58"
+yellow  = "#fac357"
+blue    = "#40a4cf"
+magenta = "#f02aae"
+cyan    = "#62caa8"
+white   = "#dbd0b9"

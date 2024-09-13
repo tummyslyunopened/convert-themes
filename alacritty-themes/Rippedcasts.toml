@@ -1,0 +1,45 @@
+#0x From the Rippedcasts color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2b2b2b"
+foreground = "#ffffff"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#7f7f7f"
+cursor = "#5a637e"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ccae95"
+green   = "#a7ff60"
+yellow  = "#beba1f"
+blue    = "#74a4af"
+magenta = "#ff73fd"
+cyan    = "#5a637e"
+white   = "#bebebe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#666666"
+red     = "#edcbac"
+green   = "#bced68"
+yellow  = "#e5e500"
+blue    = "#86bdc8"
+magenta = "#e500e5"
+cyan    = "#8b9bc4"
+white   = "#ffffff"

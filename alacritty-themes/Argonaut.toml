@@ -1,0 +1,45 @@
+#0x From the Argonaut color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0d0f18"
+foreground = "#fffaf3"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ff0017"
+cursor = "#002a3a"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#222222"
+red     = "#ff000f"
+green   = "#8ce00a"
+yellow  = "#ffb900"
+blue    = "#008df8"
+magenta = "#6c43a5"
+cyan    = "#00d7eb"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#444444"
+red     = "#ff273f"
+green   = "#abe05a"
+yellow  = "#ffd141"
+blue    = "#0092ff"
+magenta = "#9a5feb"
+cyan    = "#67ffef"
+white   = "#fffaf3"

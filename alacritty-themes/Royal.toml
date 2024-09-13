@@ -1,0 +1,45 @@
+#0x From the Royal color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#100814"
+foreground = "#504868"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#514965"
+cursor = "#1e1d2a"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#241f2a"
+red     = "#90274b"
+green   = "#23801c"
+yellow  = "#b49d27"
+blue    = "#6480af"
+magenta = "#664d96"
+cyan    = "#8aaabd"
+white   = "#514965"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#312d3c"
+red     = "#d4346c"
+green   = "#2cd845"
+yellow  = "#fde83a"
+blue    = "#8fb9f9"
+magenta = "#a479e2"
+cyan    = "#abd3eb"
+white   = "#504868"

@@ -1,0 +1,45 @@
+#0x From the Dark_Pastel color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#ffffff"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#b5d5ff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff5555"
+green   = "#55ff55"
+yellow  = "#ffff55"
+blue    = "#5555ff"
+magenta = "#ff55ff"
+cyan    = "#55ffff"
+white   = "#bbbbbb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ff5555"
+green   = "#55ff55"
+yellow  = "#ffff55"
+blue    = "#5555ff"
+magenta = "#ff55ff"
+cyan    = "#55ffff"
+white   = "#ffffff"

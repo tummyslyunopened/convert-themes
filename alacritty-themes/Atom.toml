@@ -1,0 +1,45 @@
+#0x From the Atom color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#161718"
+foreground = "#c4c8c5"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#d0d0d0"
+cursor = "#444444"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#fc5ef0"
+green   = "#86c38a"
+yellow  = "#ffd6b1"
+blue    = "#85befd"
+magenta = "#b9b5fc"
+cyan    = "#85befd"
+white   = "#dfdfdf"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#fc5ef0"
+green   = "#94f936"
+yellow  = "#f5ffa7"
+blue    = "#95cbfe"
+magenta = "#b9b5fc"
+cyan    = "#85befd"
+white   = "#c4c8c5"

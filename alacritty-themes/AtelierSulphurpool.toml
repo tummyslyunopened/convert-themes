@@ -1,0 +1,45 @@
+#0x From the AtelierSulphurpool color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#202745"
+foreground = "#969cb3"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#969cb3"
+cursor = "#5e6686"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#202745"
+red     = "#c84821"
+green   = "#ab9639"
+yellow  = "#c08a2f"
+blue    = "#3d8ed0"
+magenta = "#6678cc"
+cyan    = "#21a1c8"
+white   = "#969cb3"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#6a7394"
+red     = "#c76a28"
+green   = "#283256"
+yellow  = "#5e6686"
+blue    = "#898ea3"
+magenta = "#dee1f0"
+cyan    = "#9c6279"
+white   = "#969cb3"

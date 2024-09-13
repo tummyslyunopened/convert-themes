@@ -1,0 +1,45 @@
+#0x From the Smyck color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1b1b1b"
+foreground = "#f7f7f7"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#207383"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#b74131"
+green   = "#7da900"
+yellow  = "#c4a400"
+blue    = "#62a3c4"
+magenta = "#b98acc"
+cyan    = "#207383"
+white   = "#a0a0a0"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#7a7a7a"
+red     = "#d6837b"
+green   = "#c4f036"
+yellow  = "#fee14d"
+blue    = "#8dcff0"
+magenta = "#f799ff"
+cyan    = "#69d9cf"
+white   = "#f7f7f7"

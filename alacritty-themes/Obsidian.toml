@@ -1,0 +1,45 @@
+#0x From the Obsidian color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#273032"
+foreground = "#cccccc"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#c0cad0"
+cursor = "#3d4b4e"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#a50001"
+green   = "#00bb00"
+yellow  = "#fecc22"
+blue    = "#399bda"
+magenta = "#bb00bb"
+cyan    = "#00bbbb"
+white   = "#bbbbbb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ff0003"
+green   = "#92c763"
+yellow  = "#fef773"
+blue    = "#a0d6ff"
+magenta = "#ff55ff"
+cyan    = "#55ffff"
+white   = "#cccccc"

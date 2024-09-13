@@ -1,0 +1,45 @@
+#0x From the Wez color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#b3b3b3"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#52ad70"
+cursor = "#4c52f8"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#cc5555"
+green   = "#55cc55"
+yellow  = "#cdcd55"
+blue    = "#5455cb"
+magenta = "#cc55cc"
+cyan    = "#7acaca"
+white   = "#cccccc"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#555555"
+red     = "#ff5555"
+green   = "#55ff55"
+yellow  = "#ffff55"
+blue    = "#5555ff"
+magenta = "#ff55ff"
+cyan    = "#55ffff"
+white   = "#b3b3b3"

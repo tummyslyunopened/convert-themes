@@ -1,0 +1,45 @@
+#0x From the Later_This_Evening color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#212121"
+foreground = "#949494"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#424242"
+cursor = "#424242"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2b2b2b"
+red     = "#d35a5f"
+green   = "#afba66"
+yellow  = "#e5d289"
+blue    = "#a0b9d5"
+magenta = "#bf92d5"
+cyan    = "#91beb6"
+white   = "#3b3c3c"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#444747"
+red     = "#d3222e"
+green   = "#aabb39"
+yellow  = "#e4bd39"
+blue    = "#6599d5"
+magenta = "#aa52d5"
+cyan    = "#5fbfad"
+white   = "#949494"

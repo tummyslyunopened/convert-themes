@@ -1,0 +1,45 @@
+#0x From the Broadcast color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2b2b2b"
+foreground = "#e5e1db"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffffff"
+cursor = "#5a637e"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#da4839"
+green   = "#509f50"
+yellow  = "#ffd249"
+blue    = "#6d9cbd"
+magenta = "#cfcfff"
+cyan    = "#6d9cbd"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#323232"
+red     = "#ff7b6a"
+green   = "#83d082"
+yellow  = "#ffff7b"
+blue    = "#9fcef0"
+magenta = "#ffffff"
+cyan    = "#a0cef0"
+white   = "#e5e1db"

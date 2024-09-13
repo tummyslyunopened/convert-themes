@@ -1,0 +1,45 @@
+#0x From the Borland color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0000a3"
+foreground = "#ffff4d"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffa460"
+cursor = "#a3a3a3"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#4e4e4e"
+red     = "#ff6b60"
+green   = "#a7ff60"
+yellow  = "#ffffb6"
+blue    = "#96cafd"
+magenta = "#ff73fd"
+cyan    = "#c6c4fd"
+white   = "#eeeeee"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#7c7c7c"
+red     = "#ffb6b0"
+green   = "#ceffab"
+yellow  = "#ffffcb"
+blue    = "#b5dcfe"
+magenta = "#ff9cfe"
+cyan    = "#dfdffe"
+white   = "#ffff4d"

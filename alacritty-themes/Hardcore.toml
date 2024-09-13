@@ -1,0 +1,45 @@
+#0x From the Hardcore color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#121212"
+foreground = "#a0a0a0"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#453a39"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1b1d1e"
+red     = "#f92672"
+green   = "#a6e22e"
+yellow  = "#fd971f"
+blue    = "#66d9ef"
+magenta = "#9e6ffe"
+cyan    = "#5e7175"
+white   = "#ccccc6"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#505354"
+red     = "#ff669d"
+green   = "#beed5f"
+yellow  = "#e6db74"
+blue    = "#66d9ef"
+magenta = "#9e6ffe"
+cyan    = "#a3babf"
+white   = "#a0a0a0"

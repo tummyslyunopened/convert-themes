@@ -1,0 +1,45 @@
+#0x From the Duotone_Dark color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1f1c27"
+foreground = "#b6a0ff"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ff9738"
+cursor = "#353146"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1f1c27"
+red     = "#d8393d"
+green   = "#2dcc72"
+yellow  = "#d8b76e"
+blue    = "#ffc183"
+magenta = "#dd8d40"
+cyan    = "#2388ff"
+white   = "#b6a0ff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#353146"
+red     = "#d8393d"
+green   = "#2dcc72"
+yellow  = "#d8b76e"
+blue    = "#ffc183"
+magenta = "#dd8d40"
+cyan    = "#2388ff"
+white   = "#b6a0ff"

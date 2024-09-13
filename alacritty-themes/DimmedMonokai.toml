@@ -1,0 +1,45 @@
+#0x From the DimmedMonokai color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1e1e1e"
+foreground = "#b8bcb9"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#f83d19"
+cursor = "#292c31"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#3a3c43"
+red     = "#be3e48"
+green   = "#869a3a"
+yellow  = "#c4a535"
+blue    = "#4e76a1"
+magenta = "#855b8d"
+cyan    = "#568ea3"
+white   = "#b8bcb9"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#888987"
+red     = "#fb001e"
+green   = "#0e712e"
+yellow  = "#c37033"
+blue    = "#176ce3"
+magenta = "#fb0067"
+cyan    = "#2d6f6c"
+white   = "#b8bcb9"

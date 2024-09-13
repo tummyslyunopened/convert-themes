@@ -1,0 +1,45 @@
+#0x From the BirdsOfParadise color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2a1e1d"
+foreground = "#dfdab7"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#573d25"
+cursor = "#563c27"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#573d25"
+red     = "#be2d26"
+green   = "#6ba08a"
+yellow  = "#e99c29"
+blue    = "#5a86ac"
+magenta = "#ab80a6"
+cyan    = "#74a5ac"
+white   = "#dfdab7"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#9a6b49"
+red     = "#e84526"
+green   = "#94d7ba"
+yellow  = "#d0d04f"
+blue    = "#b8d3ed"
+magenta = "#d09dca"
+cyan    = "#92ced6"
+white   = "#dfdab7"

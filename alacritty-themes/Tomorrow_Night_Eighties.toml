@@ -1,0 +1,45 @@
+#0x From the Tomorrow_Night_Eighties color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#2c2c2c"
+foreground = "#cccccc"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#cccccc"
+cursor = "#505050"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#f17779"
+green   = "#99cc99"
+yellow  = "#ffcc66"
+blue    = "#6699cc"
+magenta = "#cc99cc"
+cyan    = "#66cccc"
+white   = "#fffefe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#f17779"
+green   = "#99cc99"
+yellow  = "#ffcc66"
+blue    = "#6699cc"
+magenta = "#cc99cc"
+cyan    = "#66cccc"
+white   = "#cccccc"

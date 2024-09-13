@@ -1,0 +1,45 @@
+#0x From the Teerb color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#262626"
+foreground = "#d0d0d0"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#e3c8ae"
+cursor = "#4d4d4d"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1c1c1c"
+red     = "#d68686"
+green   = "#aed686"
+yellow  = "#d7af87"
+blue    = "#86aed6"
+magenta = "#d6aed6"
+cyan    = "#8adbb4"
+white   = "#d0d0d0"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#1c1c1c"
+red     = "#d68686"
+green   = "#aed686"
+yellow  = "#e4c9af"
+blue    = "#86aed6"
+magenta = "#d6aed6"
+cyan    = "#b1e7dd"
+white   = "#d0d0d0"

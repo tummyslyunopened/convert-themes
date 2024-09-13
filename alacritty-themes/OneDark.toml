@@ -1,0 +1,45 @@
+#0x From the OneDark color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#282c34"
+foreground = "#979eab"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#cccccc"
+cursor = "#979eab"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#282c34"
+red     = "#e06c75"
+green   = "#98c379"
+yellow  = "#e5c07b"
+blue    = "#61afef"
+magenta = "#be5046"
+cyan    = "#56b6c2"
+white   = "#979eab"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#393e48"
+red     = "#d19a66"
+green   = "#56b6c2"
+yellow  = "#e5c07b"
+blue    = "#61afef"
+magenta = "#be5046"
+cyan    = "#56b6c2"
+white   = "#979eab"

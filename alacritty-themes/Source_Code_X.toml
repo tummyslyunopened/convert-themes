@@ -1,0 +1,45 @@
+#0x From the Source_Code_X color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1f1f24"
+foreground = "#000000"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#7F7F7F"
+cursor = "#000000"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#4e596b"
+red     = "#fb695d"
+green   = "#74b391"
+yellow  = "#fc8e3e"
+blue    = "#9586f4"
+magenta = "#fb5ea3"
+cyan    = "#79c8b6"
+white   = "#BFBFBF"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#91a0b1"
+red     = "#fb695d"
+green   = "#aef37c"
+yellow  = "#fc8e3e"
+blue    = "#53a4fb"
+magenta = "#fb5ea3"
+cyan    = "#83d2c0"
+white   = "#000000"

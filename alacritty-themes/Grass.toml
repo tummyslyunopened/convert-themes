@@ -1,0 +1,45 @@
+#0x From the Grass color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#12773d"
+foreground = "#fff0a4"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#8b2800"
+cursor = "#b64825"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ba0000"
+green   = "#00ba00"
+yellow  = "#e6af00"
+blue    = "#0000a3"
+magenta = "#950062"
+cyan    = "#00baba"
+white   = "#bababa"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ba0000"
+green   = "#00ba00"
+yellow  = "#e6af00"
+blue    = "#0000ba"
+magenta = "#ff54ff"
+cyan    = "#54ffff"
+white   = "#fff0a4"

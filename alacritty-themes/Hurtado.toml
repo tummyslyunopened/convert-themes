@@ -1,0 +1,45 @@
+#0x From the Hurtado color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#dadbda"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#b4d5ff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#575757"
+red     = "#ff1b00"
+green   = "#a5df55"
+yellow  = "#fbe74a"
+blue    = "#486387"
+magenta = "#fc5ef0"
+cyan    = "#85e9fe"
+white   = "#cbcbcb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#252525"
+red     = "#d41c00"
+green   = "#a5df55"
+yellow  = "#fbe749"
+blue    = "#89bdff"
+magenta = "#bf00c0"
+cyan    = "#85e9fe"
+white   = "#dadbda"

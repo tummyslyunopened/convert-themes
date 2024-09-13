@@ -1,0 +1,45 @@
+#0x From the ayu_mirage color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#212733"
+foreground = "#d9d7ce"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffcc66"
+cursor = "#343f4c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#191e2a"
+red     = "#ed8274"
+green   = "#a6cc70"
+yellow  = "#fad07b"
+blue    = "#6dcbfa"
+magenta = "#cfbafa"
+cyan    = "#90e1c6"
+white   = "#c7c7c7"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#686868"
+red     = "#f28779"
+green   = "#bae67e"
+yellow  = "#ffd580"
+blue    = "#73d0ff"
+magenta = "#d4bfff"
+cyan    = "#95e6cb"
+white   = "#d9d7ce"

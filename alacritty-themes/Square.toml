@@ -1,0 +1,45 @@
+#0x From the Square color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1a1a1a"
+foreground = "#acacab"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fbfacc"
+cursor = "#4d4d4d"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#050505"
+red     = "#e9897c"
+green   = "#b6377d"
+yellow  = "#ecebbe"
+blue    = "#a9cdeb"
+magenta = "#75507b"
+cyan    = "#c9caec"
+white   = "#f2f2f2"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#141414"
+red     = "#f99286"
+green   = "#c3f786"
+yellow  = "#fcfbcc"
+blue    = "#b6defb"
+magenta = "#ad7fa8"
+cyan    = "#d7d9fc"
+white   = "#acacab"

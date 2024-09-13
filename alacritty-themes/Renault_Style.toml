@@ -1,0 +1,45 @@
+#0x From the Renault_Style color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3a3a3a"
+foreground = "#e9cb7b"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#7f7f7f"
+cursor = "#958553"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#990000"
+green   = "#00A600"
+yellow  = "#999900"
+blue    = "#0000B2"
+magenta = "#B200B2"
+cyan    = "#00A6B2"
+white   = "#BFBFBF"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#666666"
+red     = "#E50000"
+green   = "#00d800"
+yellow  = "#E5E500"
+blue    = "#0000FF"
+magenta = "#E500E5"
+cyan    = "#00e5e5"
+white   = "#e9cb7b"

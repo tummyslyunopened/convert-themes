@@ -1,0 +1,45 @@
+#0x From the ToyChest color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#23364a"
+foreground = "#30cf7b"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#d4d4d4"
+cursor = "#5f207a"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2c3f57"
+red     = "#be2d26"
+green   = "#199171"
+yellow  = "#da8e26"
+blue    = "#325d96"
+magenta = "#8a5ddb"
+cyan    = "#35a08f"
+white   = "#23d082"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#326889"
+red     = "#dd5943"
+green   = "#30cf7b"
+yellow  = "#e7d74b"
+blue    = "#33a5d9"
+magenta = "#ad6bdc"
+cyan    = "#41c3ad"
+white   = "#30cf7b"

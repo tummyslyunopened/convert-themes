@@ -1,0 +1,45 @@
+#0x From the AdventureTime color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1e1c44"
+foreground = "#f8dbc0"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#eebf37"
+cursor = "#6f6a4e"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#050404"
+red     = "#bc0013"
+green   = "#49b117"
+yellow  = "#e6741d"
+blue    = "#0f49c6"
+magenta = "#665992"
+cyan    = "#6fa497"
+white   = "#f8dbc0"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#4e7bbf"
+red     = "#fc5e59"
+green   = "#9dff6e"
+yellow  = "#efc11a"
+blue    = "#1896c6"
+magenta = "#9a5952"
+cyan    = "#c8f9f3"
+white   = "#f8dbc0"

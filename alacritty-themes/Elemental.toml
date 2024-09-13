@@ -1,0 +1,45 @@
+#0x From the Elemental color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#21211c"
+foreground = "#807973"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#facb7f"
+cursor = "#403729"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#3c3b30"
+red     = "#97280f"
+green   = "#479942"
+yellow  = "#7f7110"
+blue    = "#497f7d"
+magenta = "#7e4e2e"
+cyan    = "#387f58"
+white   = "#807974"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545444"
+red     = "#df502a"
+green   = "#60e06f"
+yellow  = "#d69827"
+blue    = "#78d8d8"
+magenta = "#cd7c53"
+cyan    = "#58d598"
+white   = "#807973"

@@ -1,0 +1,45 @@
+#0x From the Afterglow color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#202020"
+foreground = "#d0d0d0"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#d0d0d0"
+cursor = "#303030"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#151515"
+red     = "#ac4142"
+green   = "#7e8d50"
+yellow  = "#e5b566"
+blue    = "#6c99ba"
+magenta = "#9e4e85"
+cyan    = "#7dd5cf"
+white   = "#d0d0d0"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#505050"
+red     = "#ac4142"
+green   = "#7e8d50"
+yellow  = "#e5b566"
+blue    = "#6c99ba"
+magenta = "#9e4e85"
+cyan    = "#7dd5cf"
+white   = "#d0d0d0"

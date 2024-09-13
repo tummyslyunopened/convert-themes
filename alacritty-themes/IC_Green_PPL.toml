@@ -1,0 +1,45 @@
+#0x From the IC_Green_PPL color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3a3c3e"
+foreground = "#d9eed2"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#41ff58"
+cursor = "#2a9b34"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1e1e1e"
+red     = "#fb0029"
+green   = "#329b24"
+yellow  = "#649a25"
+blue    = "#149b45"
+magenta = "#53b82b"
+cyan    = "#2bb767"
+white   = "#dffeee"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#03260f"
+red     = "#a6ff3e"
+green   = "#9fff6d"
+yellow  = "#d1ff6d"
+blue    = "#72ffb5"
+magenta = "#50ff3d"
+cyan    = "#22ff71"
+white   = "#d9eed2"

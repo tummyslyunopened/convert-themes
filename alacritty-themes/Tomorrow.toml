@@ -1,0 +1,45 @@
+#0x From the Tomorrow color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#ffffff"
+foreground = "#4c4c4c"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#4c4c4c"
+cursor = "#d6d6d6"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#c82828"
+green   = "#708b00"
+yellow  = "#e9b600"
+blue    = "#4170ae"
+magenta = "#8958a7"
+cyan    = "#3d999f"
+white   = "#fffefe"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#c82828"
+green   = "#708b00"
+yellow  = "#e9b600"
+blue    = "#4170ae"
+magenta = "#8958a7"
+cyan    = "#3d999f"
+white   = "#4c4c4c"

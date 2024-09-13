@@ -1,0 +1,45 @@
+#0x From the Seafoam_Pastel color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#243335"
+foreground = "#d3e6d3"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#576379"
+cursor = "#ffffff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#747474"
+red     = "#825d4c"
+green   = "#718b62"
+yellow  = "#aca06d"
+blue    = "#4c7b82"
+magenta = "#8a7166"
+cyan    = "#719494"
+white   = "#dfdfdf"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#8a8a8a"
+red     = "#cf9279"
+green   = "#98d9aa"
+yellow  = "#fae69c"
+blue    = "#79c3cf"
+magenta = "#d6b2a0"
+cyan    = "#acdfdf"
+white   = "#d3e6d3"

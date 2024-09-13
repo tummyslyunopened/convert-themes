@@ -1,0 +1,45 @@
+#0x From the Red_Sands color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#79241d"
+foreground = "#d6c8a7"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ffffff"
+cursor = "#a4a390"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#ff3e00"
+green   = "#00ba00"
+yellow  = "#e6af00"
+blue    = "#0071ff"
+magenta = "#ba00ba"
+cyan    = "#00baba"
+white   = "#bababa"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ba0000"
+green   = "#00ba00"
+yellow  = "#e6af00"
+blue    = "#0071ae"
+magenta = "#ff54ff"
+cyan    = "#54ffff"
+white   = "#d6c8a7"

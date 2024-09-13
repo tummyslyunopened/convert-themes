@@ -1,0 +1,45 @@
+#0x From the Zenburn color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#3f3f3f"
+foreground = "#dcdccc"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#73635a"
+cursor = "#21322f"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#4d4d4d"
+red     = "#705050"
+green   = "#60b48a"
+yellow  = "#f0deae"
+blue    = "#506070"
+magenta = "#dc8cc3"
+cyan    = "#8cd0d3"
+white   = "#dcdccc"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#709080"
+red     = "#dca3a3"
+green   = "#c3bf9f"
+yellow  = "#dfcf9f"
+blue    = "#94bff3"
+magenta = "#ec93d3"
+cyan    = "#93e0e3"
+white   = "#dcdccc"

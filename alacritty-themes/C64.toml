@@ -1,0 +1,45 @@
+#0x From the C64 color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#40318d"
+foreground = "#7869c4"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#7869c4"
+cursor = "#7869c4"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#090300"
+red     = "#883932"
+green   = "#55a049"
+yellow  = "#bfce72"
+blue    = "#40318d"
+magenta = "#8b3f96"
+cyan    = "#67b6bd"
+white   = "#ffffff"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#000000"
+red     = "#883932"
+green   = "#55a049"
+yellow  = "#bfce72"
+blue    = "#40318d"
+magenta = "#8a3e95"
+cyan    = "#67b6bd"
+white   = "#7869c4"

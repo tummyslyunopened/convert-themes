@@ -1,0 +1,45 @@
+#0x From the Belafonte_Day color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#d4ccb9"
+foreground = "#45363b"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#45363b"
+cursor = "#958b83"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#20111a"
+red     = "#bd100d"
+green   = "#858062"
+yellow  = "#e9a448"
+blue    = "#416978"
+magenta = "#96522b"
+cyan    = "#98999c"
+white   = "#958b83"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#5e5252"
+red     = "#bd100d"
+green   = "#858062"
+yellow  = "#e9a448"
+blue    = "#416978"
+magenta = "#96522b"
+cyan    = "#98999c"
+white   = "#45363b"

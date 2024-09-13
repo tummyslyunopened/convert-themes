@@ -1,0 +1,45 @@
+#0x From the Dumbledore color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#422553"
+foreground = "#c4c8c5"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#c4c8c5"
+cursor = "#008aff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#2b283d"
+red     = "#ae0000"
+green   = "#3e7c54"
+yellow  = "#f0c75e"
+blue    = "#415baf"
+magenta = "#9445ae"
+cyan    = "#008aff"
+white   = "#850000"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#413e53"
+red     = "#d3a624"
+green   = "#aaaaaa"
+yellow  = "#716254"
+blue    = "#946a2c"
+magenta = "#b294ba"
+cyan    = "#25de50"
+white   = "#c4c8c5"

@@ -1,0 +1,45 @@
+#0x From the SpaceGray_Eighties_Dull color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#212121"
+foreground = "#c8c5bc"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#262e36"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#15171c"
+red     = "#b14956"
+green   = "#91b377"
+yellow  = "#c6725a"
+blue    = "#7b8fa4"
+magenta = "#a5779e"
+cyan    = "#7fcccb"
+white   = "#b2b8c2"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ec5f67"
+green   = "#88e985"
+yellow  = "#fdc253"
+blue    = "#5485c0"
+magenta = "#bf83c0"
+cyan    = "#58c2c0"
+white   = "#c8c5bc"

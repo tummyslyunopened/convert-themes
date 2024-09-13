@@ -1,0 +1,45 @@
+#0x From the Spiderman color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#1b1d1e"
+foreground = "#e2e2e2"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#2b3fff"
+cursor = "#070e4f"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#1b1d1e"
+red     = "#e60712"
+green   = "#e22828"
+yellow  = "#e24655"
+blue    = "#2b3fff"
+magenta = "#2435db"
+cyan    = "#3255ff"
+white   = "#fffef6"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#505354"
+red     = "#ff0325"
+green   = "#ff3238"
+yellow  = "#fe3935"
+blue    = "#1d4fff"
+magenta = "#737bff"
+cyan    = "#6083ff"
+white   = "#e2e2e2"

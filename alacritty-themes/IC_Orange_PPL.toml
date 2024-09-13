@@ -1,0 +1,45 @@
+#0x From the IC_Orange_PPL color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#262626"
+foreground = "#ffcb83"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#fb521c"
+cursor = "#c03f1f"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#c03900"
+green   = "#a3a900"
+yellow  = "#caae00"
+blue    = "#bd6c00"
+magenta = "#fb5d00"
+cyan    = "#f79400"
+white   = "#ffc88a"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#6a4e29"
+red     = "#ff8b67"
+green   = "#f6ff3f"
+yellow  = "#ffe36e"
+blue    = "#ffbd54"
+magenta = "#fc874f"
+cyan    = "#c59752"
+white   = "#ffcb83"

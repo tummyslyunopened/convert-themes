@@ -1,0 +1,45 @@
+#0x From the Vaughn color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#25234e"
+foreground = "#dcdccc"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#ff5555"
+cursor = "#b5d5ff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#24234f"
+red     = "#705050"
+green   = "#60b48a"
+yellow  = "#dfaf8f"
+blue    = "#5454ff"
+magenta = "#f08cc3"
+cyan    = "#8cd0d3"
+white   = "#709080"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#709080"
+red     = "#dca3a3"
+green   = "#60b48a"
+yellow  = "#f0dfaf"
+blue    = "#5454ff"
+magenta = "#ec93d3"
+cyan    = "#93e0e3"
+white   = "#dcdccc"

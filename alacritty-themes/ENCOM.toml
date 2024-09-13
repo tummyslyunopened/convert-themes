@@ -1,0 +1,45 @@
+#0x From the ENCOM color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#000000"
+foreground = "#00a595"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#bbbbbb"
+cursor = "#00a48c"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#9f0000"
+green   = "#008b00"
+yellow  = "#ffcf00"
+blue    = "#0081ff"
+magenta = "#bc00ca"
+cyan    = "#008b8b"
+white   = "#bbbbbb"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#545454"
+red     = "#ff0000"
+green   = "#00ee00"
+yellow  = "#ffff00"
+blue    = "#0000ff"
+magenta = "#ff00ff"
+cyan    = "#00cdcd"
+white   = "#00a595"

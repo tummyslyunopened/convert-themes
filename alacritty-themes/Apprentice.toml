@@ -1,0 +1,45 @@
+#0x From the Apprentice color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#323232"
+foreground = "#c8c8c8"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#c7c7c7"
+cursor = "#c1ddff"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#252525"
+red     = "#be7472"
+green   = "#709772"
+yellow  = "#989772"
+blue    = "#7199bc"
+magenta = "#727399"
+cyan    = "#719899"
+white   = "#7f7f7f"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#555555"
+red     = "#ff9900"
+green   = "#97bb98"
+yellow  = "#fefdbc"
+blue    = "#9fbdde"
+magenta = "#989abc"
+cyan    = "#6fbbbc"
+white   = "#c8c8c8"

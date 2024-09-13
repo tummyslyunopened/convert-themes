@@ -1,0 +1,45 @@
+#0x From the Hipster_Green color palette
+
+
+# 0x Default colors
+
+[colors.primary]
+
+background = "#0f0a05"
+foreground = "#84c137"
+
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+
+[colors.cursor]
+
+text = "#23ff18"
+cursor = "#083905"
+
+
+# 0x Normal colors
+
+[colors.normal]
+
+black   = "#000000"
+red     = "#b6204a"
+green   = "#00a600"
+yellow  = "#bebe00"
+blue    = "#246db2"
+magenta = "#b200b2"
+cyan    = "#00a6b2"
+white   = "#bfbfbf"
+
+
+# 0x Bright colors
+
+[colors.bright]
+
+black   = "#666666"
+red     = "#e50000"
+green   = "#86a83e"
+yellow  = "#e5e500"
+blue    = "#0000ff"
+magenta = "#e500e5"
+cyan    = "#00e5e5"
+white   = "#84c137"
